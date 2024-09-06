@@ -17,5 +17,6 @@ For single object:
 ![Output single object image](single_object_with_contours.jpg)
 
 For multiple objects
+
 ![Input multiple objects image](multiple_objects.jpg)
 ![Output multiple objects image](multiple_objects_with_contour.jpg)
