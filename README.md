@@ -14,7 +14,7 @@ This project is designed to detect objects in an image using OpenCV and display 
 For single object:
 
 ![Input single object image](single.png)
-![Output single object image](single_object_with_contours.jpg)
+![Output single object image](single_object_with_contours.jpg) **Size:  63.695000000000014**
 
 For multiple objects
 
